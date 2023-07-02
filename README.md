@@ -10,4 +10,5 @@ Developed in C++ with the use of a Raspberry Pi and an Arduino. This project use
 ## Requirements
 The OpenCV library.
 
+## Images
 ![](Images/ComputerVision.png)
